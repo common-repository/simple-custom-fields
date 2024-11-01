@@ -1,0 +1,13 @@
+.table_content ul {
+	margin: 10px;
+}
+#poststuff .inside label {
+	margin-left: 5px;
+}
+#poststuff .inside p {
+	margin: 10px;
+}
+
+label.error{
+	color: red;
+}
